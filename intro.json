@@ -1,0 +1,89 @@
+{
+  "files": [
+    {
+      "path": "introduce/intro_pic0.u",
+      "size": 931101,
+      "crc": 2484602733
+    },
+    {
+      "path": "bg/pv_bg_png.u",
+      "size": 70729,
+      "crc": 3622946803
+    },
+    {
+      "path": "intro_res.u",
+      "size": 10051,
+      "crc": 2785795756
+    },
+    {
+      "path": "bg/bg_normal_png.u",
+      "size": 49436,
+      "crc": 2238805165
+    },
+    {
+      "path": "Raw/pv_sound.txt",
+      "size": 14,
+      "crc": 1343171386
+    },
+    {
+      "path": "Raw/intro.mp4",
+      "size": 24015300,
+      "crc": 1697643430
+    },
+    {
+      "path": "p_pre.u",
+      "size": 13044,
+      "crc": 3401091711
+    },
+    {
+      "path": "introduce/intro_pic1.u",
+      "size": 235985,
+      "crc": 951773198
+    },
+    {
+      "path": "introduce/intro_pic2.u",
+      "size": 208714,
+      "crc": 3853024605
+    },
+    {
+      "path": "introduce/intro_pic3.u",
+      "size": 246317,
+      "crc": 2740893649
+    },
+    {
+      "path": "introduce/intro_pic4.u",
+      "size": 213313,
+      "crc": 3315534105
+    },
+    {
+      "path": "introduce/intro_pic5.u",
+      "size": 208099,
+      "crc": 312632035
+    },
+    {
+      "path": "introduce/intro_pic6.u",
+      "size": 227679,
+      "crc": 3665268625
+    },
+    {
+      "path": "introduce/intro_pic7.u",
+      "size": 210125,
+      "crc": 3052668264
+    },
+    {
+      "path": "introduce/intro_pic8.u",
+      "size": 224610,
+      "crc": 3931352923
+    },
+    {
+      "path": "introduce/intro_pic9.u",
+      "size": 233624,
+      "crc": 218677483
+    },
+    {
+      "path": "introduce/intro_pic10.u",
+      "size": 202540,
+      "crc": 1289839432
+    }
+  ]
+}
