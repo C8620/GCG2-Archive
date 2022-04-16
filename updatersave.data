@@ -1,6 +1,6 @@
 is_init_data#true
 updater_check_crc_flag#1
-update_completed_bversion#1299
+update_completed_bversion#1315
 pack_0.pack#2
 pack_1.pack#2
 pack_2.pack#2
@@ -515,4 +515,4 @@ pack_510.pack#2
 pack_511.pack#2
 pack_512.pack#2
 unpacked#unpack
-buildversion#1.1.36.1299
+buildversion#1.1.36.1315
